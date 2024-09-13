@@ -1,0 +1,7 @@
+Name:suvadip Khanra
+Collage:Adamas University
+skill:
+   Technical:python,java,git,github
+   soft-skill:communication,gd
+projech:snake game,facbook login page,bmi calculator
+
